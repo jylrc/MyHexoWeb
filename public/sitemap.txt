@@ -1,4 +1,6 @@
-https://jylrc.github.io/MyHexoWeb/about/me.html
-https://jylrc.github.io/MyHexoWeb/2023/12/08/test/
-https://jylrc.github.io/MyHexoWeb/2023/12/08/hello-world/
-https://jylrc.github.io/MyHexoWeb
+https://jylrc.github.io/Blog/2023/12/07/test/
+https://jylrc.github.io/Blog/categories/index.html
+https://jylrc.github.io/Blog/tags/index.html
+https://jylrc.github.io/Blog/about/index.html
+https://jylrc.github.io/Blog/2023/12/08/hello-world/
+https://jylrc.github.io/Blog
