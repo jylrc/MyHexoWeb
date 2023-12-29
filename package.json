@@ -12,7 +12,7 @@
     "version": "7.0.0"
   },
   "dependencies": {
-    "acorn": "^8.11.2",
+    "acorn": "^8.11.3",
     "eslint": "^8.55.0",
     "hexo": "^7.0.0",
     "hexo-asset-image": "github:CodeFalling/hexo-asset-image",
